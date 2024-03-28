@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Solution Architect and Lead RPA developer
 -----------------------------------------
 
-I build robots for real world enterprise automation.
+I build robots for real-world enterprise automation.
 
 * 🌍  I'm based in Chennai, India
-* 🖥️  See my portfolio at [janetcaroline.github.io](http://https://janetcaroline.github.io/)
+* 🖥️  See my portfolio at [janetcaroline.github.io](https://janetcaroline.github.io/)
 * ✉️  You can contact me at [janetcaroline.g@gmail.com](mailto:janetcaroline.g@gmail.com)
 * 🚀  I'm currently working on [qbotica](http://qbotica.com/)
 * 🧠  I'm learning Power Automate and GenAI
-* 🤝  I'm open to collaborating on exciting projects as a UiPath developer, Solution Architect roles.
+* 🤝  I'm open to collaborating on exciting projects as a UiPath developer and solution Architect roles.
 * ⚡  Open to work
 
 ### Skills
